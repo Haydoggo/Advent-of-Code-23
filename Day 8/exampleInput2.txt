@@ -1,0 +1,10 @@
+LR
+
+IIA = (IIB, XXX)
+IIB = (XXX, IIZ)
+IIZ = (IIB, XXX)
+ZZA = (ZZB, XXX)
+ZZB = (ZZC, ZZC)
+ZZC = (ZZZ, ZZZ)
+ZZZ = (ZZB, ZZB)
+XXX = (XXX, XXX)
